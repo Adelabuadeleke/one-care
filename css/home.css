@@ -34,7 +34,7 @@ span.word_wrap {
 
 header {
   height: 100vh; /* {px, rem, vh, vw, em,} cm, mm, m  */
-  background: url("../img/legacy.png") center no-repeat;
+  background: url("../img/legacy.webp") center no-repeat;
   background-size: cover;
   object-fit: cover;
   color: white;
